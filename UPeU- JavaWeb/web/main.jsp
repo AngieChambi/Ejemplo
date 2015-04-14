@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 13/04/2015, 09:25:30 PM
+    Document   : main
+    Created on : 13/04/2015, 09:28:17 PM
     Author     : hp
 --%>
 
@@ -13,6 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h1>Hola Mundo!</h1>
     </body>
 </html>
